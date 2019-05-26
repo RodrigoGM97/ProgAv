@@ -1,0 +1,7 @@
+/home/rodrigo/Downloads/clion-2018.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /home/rodrigo/CLionProjects/ProgAv
+OPENMP FOUND
+-- Configuring done
+CMake Error: Cannot determine link language for target "ProgAv".
+CMake Error: CMake can not determine linker language for target: ProgAv
+-- Generating done
+-- Build files have been written to: /home/rodrigo/CLionProjects/ProgAv/cmake-build-debug

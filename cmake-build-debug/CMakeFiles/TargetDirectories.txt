@@ -1,0 +1,3 @@
+/home/rodrigo/CLionProjects/ProgAv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rodrigo/CLionProjects/ProgAv/cmake-build-debug/CMakeFiles/ProgAv.dir
+/home/rodrigo/CLionProjects/ProgAv/cmake-build-debug/CMakeFiles/edit_cache.dir

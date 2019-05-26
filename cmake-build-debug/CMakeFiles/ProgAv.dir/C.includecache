@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rodrigo/CLionProjects/ProgAv/Image_filters_man_threads/ppms.c
+ppms.h
+/home/rodrigo/CLionProjects/ProgAv/Image_filters_man_threads/ppms.h
+
+/home/rodrigo/CLionProjects/ProgAv/Image_filters_man_threads/ppms.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+pthread.h
+-
+windows.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+
